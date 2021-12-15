@@ -18,6 +18,9 @@ The dataset is "Historical Tsunami Event" from [data world](https://data.world/d
 
 **feature engineering**
 
+1. ExtraTreesClassifier
+2. Top_corr_features
+
 **Model**
 
 linear regression, Sequential neural network
