@@ -25,6 +25,7 @@ The dataset is "Historical Tsunami Event" from [data world](https://data.world/d
 
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/86769038/146331752-d2e1109d-39b0-4f74-9609-9c1cdc3e275f.png">
 
+After feature engineering the remaining features are 13 out of 105
 
 **Model**
 
