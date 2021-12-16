@@ -26,22 +26,29 @@ The dataset is "Historical Tsunami Event" from [data world](https://data.world/d
 1. linear regression
 
 MAE =  0.74
+
 MSE =  1.01
+
 R^2 =  1.0
 
 2. Sequential neural network
 
 MAE =  0.11
+
 MSE =  0.04
+
 R^2 =  0.98
 
 
 # tools
+
 1. Numpy and Pandas for data processing
-2. Matplotlib and Seaborn for visualization
-3. Keras and Scikit-learn for modeling
+3. Matplotlib and Seaborn for visualization
+4. Keras and Scikit-learn for modeling
 
 
 # communication.
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/86769038/146331485-ffd08959-8a9c-427a-bddb-523009420c16.png">
+
+
 
