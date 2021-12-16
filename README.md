@@ -19,7 +19,12 @@ The dataset is "Historical Tsunami Event" from [data world](https://data.world/d
 **feature engineering**
 
 1. ExtraTreesClassifier
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/86769038/146331744-50dc661e-12fb-4330-8ced-37be03c54934.png">
+
 2. Top_corr_features
+
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/86769038/146331752-d2e1109d-39b0-4f74-9609-9c1cdc3e275f.png">
+
 
 **Model**
 
